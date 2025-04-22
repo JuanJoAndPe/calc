@@ -5,3 +5,5 @@ styles.css
 sujetosQA.xlsx
 usuarios.env
 index.html
+node_modules/
+package-lock.json
